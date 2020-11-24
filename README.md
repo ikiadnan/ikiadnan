@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Hi there , I'm Adnan! 👋</h2>
+<img align='right' src="https://media.giphy.com/media/z8n3vmKaUoWWc/source.gif" width="230">
+<p><em>Software Developer<img src="https://media.giphy.com/media/xUPGcs09BwE1ZRFMvm/source.gif" width="30"></br>Hardware Engineer<img src="https://media.giphy.com/media/3o7TKsuGyK4CkYbaqA/source.gif" width="30"> 
+</em></p>
 
-<!--
-**ikiadnan/ikiadnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: ikiadnan](https://img.shields.io/twitter/follow/ikiadnan?style=social)](https://twitter.com/ikiadnan)
+[![Linkedin: adnan](https://img.shields.io/badge/-ikiadnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adnan-rachmawan/)](https://www.linkedin.com/in/adnan-rachmawan/)
+[![GitHub ikiadnan](https://img.shields.io/github/followers/ikiadnan?label=follow&style=social)](https://github.com/ikiadnan)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Lang {
+  code : [ C++, Java, VB.Net, Javascript ]
+}
+```
+
+<img src="https://media4.giphy.com/media/3BBv1D4AFbJkY/giphy.gif?cid=ecf05e470rdex3kftou2i6t88xl30ylrec90lm16mty838ul&rid=giphy.gif" width="60">Looking forward for new technology development
+
+---
+
