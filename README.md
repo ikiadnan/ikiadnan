@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: ikiadnan](https://img.shields.io/twitter/follow/ikiadnan?style=social)](https://twitter.com/ikiadnan)
-[![Linkedin: adnan](https://img.shields.io/badge/-ikiadnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adnan-rachmawan/)](https://www.linkedin.com/in/adnan-rachmawan/)
+[![Linkedin: ikiadnan](https://img.shields.io/badge/-ikiadnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adnan-rachmawan/)](https://www.linkedin.com/in/adnan-rachmawan/)
 [![GitHub ikiadnan](https://img.shields.io/github/followers/ikiadnan?label=follow&style=social)](https://github.com/ikiadnan)
 
 
